@@ -1,0 +1,11 @@
+.video{
+  margin: 105px auto -60px auto;
+  width: 80%;
+  min-width: 784px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  z-index: 2;
+}
